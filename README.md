@@ -1,1 +1,1 @@
-# modx-formit-validators
+Набор валидаторов для компонента formit
